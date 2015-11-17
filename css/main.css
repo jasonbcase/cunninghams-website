@@ -1,0 +1,76 @@
+.hero {
+margin-top: 50px;
+
+background-size: cover;
+
+}
+.menu-kitchen {
+background: yellow;
+}
+
+.menu-items {
+	margin-left:5pt;
+	list-style:none;
+}
+
+.menu-item {
+}
+
+.menu-item + .menu-item {
+	margin-top: 15px;
+}
+
+.menu-item-title {
+	font-size: 16px;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	color: #000;
+}
+.menu-item-desc,
+.menu-item-pairing {
+	margin: 0;
+	font-style: italic;
+	text-transform: lowercase;
+}
+.menu-item-desc {
+	font-size: 12px;
+
+}
+
+.menu-item-pairing{
+	font-size: 10px;
+	font-weight: bold;
+	color: #42a8a8;
+}
+
+.pairing-type {
+	font-style: normal;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+}
+.directions-location {
+	font-family: book antique;
+	font-size: 21.5px;
+}
+.directions-links{
+	font-family: book antique;
+	font-size:28px;
+}
+.directions-reservation{
+	font-family: book antique;
+	font-size: 38px;
+	font-weight: bold;
+	margin: 40px;
+}
+.directions-reservation-links {
+	font-family: book antique;
+	font-size: 23px;
+	margin: 10px;																							
+	
+}
+.about{
+	font-family: book antique;
+	font-size: 30px;
+ 
+}
